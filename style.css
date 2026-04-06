@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f5f7fa;
+}
+
+h1 {
+    color: #6a5acd;
+}
+
+textarea {
+    width: 70%;
+    height: 150px;
+    margin: 10px;
+}
+
+input {
+    width: 50%;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background: #6a5acd;
+    color: white;
+    border: none;
+}
+
+#entries {
+    margin-top: 20px;
+}
